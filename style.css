@@ -6,3 +6,11 @@
     float: left;
     width: 35%;
 }
+#présentation {
+    float: right;
+    width: 65%;
+}
+#experiences {
+    float: right;
+    width: 65%;
+}
