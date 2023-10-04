@@ -1,3 +1,8 @@
 #partie-gauche {background-color: rgb(84, 128, 240);}
 #présentation {background-color: rgb(228, 223, 223);}
 #partie-gauche {color: white;}
+
+#partie-gauche {
+    float: left;
+    width: 35%;
+}
